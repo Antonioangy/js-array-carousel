@@ -1,0 +1,35 @@
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+margin-top: 150px;
+}
+
+/* BOX CONTENTE IMMAGINE E CAROSELLO */
+.box{
+display: flex;
+width: 70%;
+}
+
+/* BOX IMMAGINE GRANDE */
+.box-img{
+width: 100%;
+}
+
+.box-img img{
+width: 100%;
+}
+
+
+/* CAROSELLO */
+.imglaterali{
+position: relative;
+width: 263px;
+}
+
+.img-thumb img{
+width:100%;
+margin: 0;
+opacity: 0.6;
+}
