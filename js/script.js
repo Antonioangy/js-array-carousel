@@ -22,3 +22,16 @@ const text = [
     'Et temporibus voluptatum suscipit tempore aliquid deleniti aut veniam inventore eligendi ex ad ullam,',
 ]
 
+// creo delle varibili
+const cover = document.querySelector(".cover")
+const imgLaterali = document.querySelector(".imglaterali")
+
+let cover = "";
+let imgLaterali = "";
+
+
+for(let i = 0; i < items.length; i++) {
+    cover += '
+    
+    '
+}
